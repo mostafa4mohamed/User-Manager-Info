@@ -1,4 +1,4 @@
-package com.user.testnow
+package com.user.domain
 
 import org.junit.Test
 

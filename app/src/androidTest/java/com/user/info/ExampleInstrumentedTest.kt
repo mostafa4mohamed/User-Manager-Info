@@ -1,4 +1,4 @@
-package com.user.testnow
+package com.user.info
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

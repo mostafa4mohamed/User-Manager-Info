@@ -1,4 +1,4 @@
-package com.user.testnow
+package com.user.info
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
