@@ -19,7 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Test now"
+rootProject.name = "User Manager Info"
 include(":app")
 include(":data")
 include(":domain")
